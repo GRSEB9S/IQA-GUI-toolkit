@@ -1,5 +1,5 @@
 # IQA GUI tookit
-This is a Matlab based GUI toolkit for evaluating image quality assessment and error concealment algorithms.
+A Matlab based GUI toolkit for evaluating several error concealment and image quality assessment algorithms.
 
 [![ScreenShot](screenshot.png)](https://vimeo.com/147613882)
 
